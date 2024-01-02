@@ -1,4 +1,4 @@
-# Offline Apps Workshop
+# Generic Sensor API Workshop
 
 This repository contains the [workshop slides](https://slemke.github.io/generic-sensor-api-workshop/#/) 
 "Generic Sensor API" for the course "web technologies" (Web Technologien) at the Cologne University 
